@@ -1,0 +1,153 @@
+body {
+    background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 30px 40px;
+    background-color: white;
+}
+
+.header-label {
+    font-family: "Science Gothic", sans-serif;
+    font-size: 40px;
+}
+
+h1 {
+    font-family: "Science Gothic", sans-serif;
+}
+
+.results-title {
+    font-family: "Montserrat", sans-serif;
+}
+
+.subtitle {
+    font-family: "Montserrat", sans-serif;
+}
+
+.range-note {
+    font-family: "Montserrat", sans-serif;
+    padding-top: 15px;
+}
+
+input {
+    padding: 10px 15px;
+    font-size: 18px;
+    border: 2px solid black;
+    border-radius: 8px;
+    outline: none;
+    width: 150px;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {*/
+/*    background-color: skyblue;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    height: 100vh;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.header-label {*/
+/*    font-family: "Science Gothic", sans-serif;*/
+/*    font-size:40px;*/
+/*    !*margin: 1px;*!*/
+/*}*/
+
+/*h1 {*/
+/*    font-family: "Science Gothic", sans-serif;*/
+
+/*}*/
+
+/*.results-title {*/
+/*    font-family: "montserrat", sans-serif;*/
+/*}*/
+
+/*.subtitle {*/
+/*    font-family: "montserrat", sans-serif;*/
+/*}*/
+
+/*.range-note {*/
+/*    font-family: "montserrat", sans-serif;*/
+/*}*/
+
+
+/*input {*/
+/*    padding: 10px 15px;*/
+/*    font-size: 18px;*/
+/*    border: 2px solid black;*/
+/*    border-radius: 8px;*/
+/*    outline: none;*/
+/*    width: 150px;*/
+/*    text-align: center;*/
+/*}*/
+
+/*button {*/
+/*    margin-top: 10px;*/
+/*    padding: 10px 30px;*/
+/*    font-size: 18px;*/
+/*    background-color: black;*/
+/*    color: white;*/
+/*    border: none;*/
+/*    border-radius: 8px;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*button:hover {*/
+/*    background-color: blue;*/
+/*}*/
